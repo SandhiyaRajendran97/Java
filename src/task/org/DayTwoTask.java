@@ -42,7 +42,7 @@ public class DayTwoTask {
 	
 	public void temperature() {
 		
-		int farenheat= 10;
+
 		int celcius=20;
 		
 	int temp =(celcius*9/5)+32;
@@ -66,7 +66,7 @@ public class DayTwoTask {
 	
 	public void perimeter () {
 		
-		int P= 4;
+		
 		int A = 50;
 		
 		String squareperimeter = ("Square "+ (4*A));
