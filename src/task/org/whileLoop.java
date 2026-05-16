@@ -49,6 +49,16 @@ public class whileLoop {
 		}
 	}
 	
+	public void factorial() {
+		
+		int i=5;
+		int j=1;
+		while(i>0) {
+			j=j*i;
+			i--;
+		}
+		System.out.println(j);
+	}
 	
 	
 public static void main(String[] args) {
@@ -58,6 +68,7 @@ public static void main(String[] args) {
   //obj.sumoffivenumbers();
   //obj.reverse();
   //obj.multiplication();
+  obj.factorial();
   
 }
 }
