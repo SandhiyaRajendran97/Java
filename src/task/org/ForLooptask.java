@@ -61,7 +61,7 @@ public static void main(String[] args) {
 	//obj.sumoffivenumbers();
     //obj.reverse();
 	//obj.multiplication();	
-	//obj.factorial();
+	obj.factorial();
 	
 	
 }
