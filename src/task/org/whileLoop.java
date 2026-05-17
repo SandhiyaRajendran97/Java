@@ -56,8 +56,9 @@ public class whileLoop {
 		while(i>0) {
 			j=j*i;
 			i--;
+			System.out.println(j);
 		}
-		System.out.println(j);
+		
 	}
 	
 	
